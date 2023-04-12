@@ -1,0 +1,1 @@
+Select RIGHT('Hello World',5)

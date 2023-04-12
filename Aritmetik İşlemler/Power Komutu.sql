@@ -1,0 +1,1 @@
+Select Power(2,4)

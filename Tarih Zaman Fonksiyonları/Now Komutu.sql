@@ -1,0 +1,2 @@
+--Now Komutu
+Select now()

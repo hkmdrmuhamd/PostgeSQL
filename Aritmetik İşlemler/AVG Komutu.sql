@@ -1,0 +1,1 @@
+select avg(bakiye) from musteri where sehir = 'Ankara'

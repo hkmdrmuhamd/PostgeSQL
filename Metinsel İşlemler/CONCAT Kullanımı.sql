@@ -1,0 +1,1 @@
+Select CONCAT('Günaydın ','SQL ','Dersleri ')

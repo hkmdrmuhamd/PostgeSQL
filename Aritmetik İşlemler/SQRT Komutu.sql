@@ -1,0 +1,1 @@
+Select SQRT(625)

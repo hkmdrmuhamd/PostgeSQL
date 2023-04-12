@@ -1,0 +1,1 @@
+Select SUBSTRING('Hello World',3,2)

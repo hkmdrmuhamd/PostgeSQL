@@ -1,0 +1,1 @@
+Select ASCII('A')

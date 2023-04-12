@@ -1,0 +1,1 @@
+select count(*) from musteri where sehir='Ankara' and bakiye>5000

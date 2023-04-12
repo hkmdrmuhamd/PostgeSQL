@@ -1,0 +1,1 @@
+Select id,REPLACE(adi,'i','ı') from bolum3

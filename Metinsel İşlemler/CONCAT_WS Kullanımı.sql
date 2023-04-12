@@ -1,0 +1,1 @@
+Select CONCAT_WS('*','Günaydın','SQL','Dersleri')
